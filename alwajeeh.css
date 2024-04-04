@@ -1,0 +1,54 @@
+.bgcol
+{
+    background-color: rgba(141, 83, 6, 0.788);
+}
+@media screen  and (max-width:480px)
+{
+    .bgcol
+    {
+        background-color: rgb(231, 179, 12);
+    }
+    
+}
+img1
+{
+    height: 100px;
+    width: 100px;
+}
+.navbar:hover
+{
+    
+    text-decoration: underline;
+     color: rgba(141, 83, 6, 0.788)!important;
+}
+.logo
+{
+    border-bottom: 2px;
+    border-bottom-color: rgba(132, 76, 3, 0.788)!important;
+}
+.but
+{
+    background-color: rgba(132, 76, 3, 0.788)!important;
+    width: 200px!important;
+    height: 40px!important;
+    border:none!important;
+    border-radius: 5px!important;
+    text-align: center!important;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.butt
+{
+    background-color: transparent;
+    border: none;
+}
+.btn
+{
+    background-color: rgba(141, 83, 6, 0.788);
+}
+
+.margn
+{
+    margin-bottom: 75px!important;
+    margin-top: 75px!important;
+}
